@@ -89,3 +89,7 @@ my_diablo_game/
 - `Clique direito` em item do inventario enquanto loja e inventario estao abertos: vender item
 - `TAB`: abrir/fechar mapa grande (overlay)
 - `ESC`: sair
+- 
+
+<img width="1593" height="899" alt="image" src="https://github.com/user-attachments/assets/80a4505b-21dd-452f-a792-dc93a59b20a2" />
+
