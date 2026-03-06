@@ -78,6 +78,10 @@ my_diablo_game/
 
 ## Controles
 
+
+
+
+
 - `1 / 2 / 3` (na tela inicial): escolher classe
 - `W A S D` ou setas: mover
 - `Clique esquerdo`: atacar com a arma equipada
@@ -92,4 +96,6 @@ my_diablo_game/
 - 
 
 <img width="1593" height="899" alt="image" src="https://github.com/user-attachments/assets/80a4505b-21dd-452f-a792-dc93a59b20a2" />
+
+https://github.com/user-attachments/assets/82a4ff8c-73b8-4d26-8ec5-7f8f9c16af25
 
